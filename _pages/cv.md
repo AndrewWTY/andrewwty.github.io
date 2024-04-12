@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
 
 Education
 ======
