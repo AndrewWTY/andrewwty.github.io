@@ -17,11 +17,9 @@ Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
 
 ## Education
 <ul style="list-style: none;">
-
 <li markdown="1"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> 
 **MSc. in Artificial Intelligence**, Distinction Graduate, [Imperial College London][ic], 2023.
 </li> 
-
 <li markdown="1"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> 
 **BSc. in Statistics Economics and Finance**, First Honour Graduate, [University College London][ucl], 2021.
 </li> 
@@ -47,17 +45,15 @@ Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
 <li markdown="1"> <i class="fa fa-briefcase" aria-hidden="true"></i> 
 &nbsp;Data Analyst Intern, Customer Research & User Experience Design Center, [Tencent][tencent], Jun 2019 - Aug 2019.
 </li>
-
 <li markdown="1"> <i class="fa fa-briefcase" aria-hidden="true"></i> 
 &nbsp;Intern, Mainland Client Development, [Hong Kong Exchange (HKEx)][hkex], Apr 2019 – Jun 2019.
 </li> 
-
 <li markdown="1"> <i class="fa fa-briefcase" aria-hidden="true"></i> 
 &nbsp;Intern, Corporate Finance, [Haitong International Capital Limited][haitong], Jun 2017 – Jul 2017.
 </li> 
 </ul>
 
-# Activities
+## Activities
 * My group achieved 1st in 22-23 cohort at the NLP course project “Patronizing and Condescending Language Detection” on the same task in SemEval-2022 Task 4, with the help of 2 classmates.
 * I was a committee member of the Chinese Society in UCL, helping chinese student to connect with each other within the university.
 * Other Interests: Learning languages, Basketball, Snowboarding...
