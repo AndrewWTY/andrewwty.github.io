@@ -12,7 +12,7 @@ title                    : "Tianyi Wu"
 title_separator          : "-"
 name                     : &name "Tianyi Wu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andrewwty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Graduate Master Student looking for a PhD position in NLP"
   location         : "Zurich, Switzerland"
-  employer         : "University College London"
+  employer         : "Imperial College London"
   uri              : # URL
   email            : "andrewwu9986@gmail.com" 
 
