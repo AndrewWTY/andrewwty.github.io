@@ -11,3 +11,5 @@
 [tencent]:https://www.tencent.com/
 [hkex]:https://www.hkex.com.hk/?sc_lang=en
 [haitong]:https://www.haitongib.com/en/where-we-are/hong-kong
+[nus]:https://nus.edu.sg/
+[nus_ds]:https://isep.nus.edu.sg/nus-phd-data-science/
