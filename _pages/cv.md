@@ -28,7 +28,7 @@ Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
 ## Research Experience
 * **Critic Model for the Quality of Retrieval Augmented Generations**, [University of Zurich][uzh], Mar 2024 - Present.
   * Aims to develop a critic model to evaluate the quality and automatically provide critique on plausible improvement, given a retrieval augmented generated text.
-  * Joint with [Jingwei Ni](jingwei_ni), Supervised by [Prof. Markus Leippold](markus_leippold).
+  * Joint with [Jingwei Ni][jingwei_ni], Supervised by [Prof. Markus Leippold][markus_leippold].
 
 * **Discover Economically Meaningful Stock Factors through LLM Reasoning**, [University of Zurich][uzh], Feb 2024 - Present.
   * Aims to leverage LLM’s strong reasoning ability to automatically discover useful and economically meaningful stock factors.
