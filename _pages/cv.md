@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 <ul style="list-style: none;">
 <li markdown="1"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> 
-**Research Assistant**, Supervised by [Prof. Markus Leippold], [Univeristy of Zurich][uzh], 2023.
+**Research Assistant**, Supervised by [Prof. Markus Leippold][markus_leippold], [Univeristy of Zurich][uzh], 2023.
 </li> 
 <li markdown="1"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> 
 **MSc. in Artificial Intelligence**, Distinction Graduate, [Imperial College London][ic], 2023.
