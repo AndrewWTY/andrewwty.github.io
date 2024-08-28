@@ -26,18 +26,20 @@ Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
 </ul>
 
 ## Research Experience
+
+* **Honesty Calibration of LLMs**, [University of Zurich][uzh], May 2024 - Present.
+  * Aims to develop methods to calibrate LLMs' confidence score on the factual claim generated during long-form generation.
+  * Joint with [Jingwei Ni][jingwei_ni], Supervised by [Prof. Markus Leippold][markus_leippold].
+
 * **Critic Model for the Quality of Retrieval Augmented Generations**, [University of Zurich][uzh], Mar 2024 - Present.
   * Aims to develop a critic model to evaluate the quality and automatically provide critique on plausible improvement, given a retrieval augmented generated text.
   * Joint with [Jingwei Ni][jingwei_ni], Supervised by [Prof. Markus Leippold][markus_leippold].
-
-* **Discover Economically Meaningful Stock Factors through LLM Reasoning**, [University of Zurich][uzh], Feb 2024 - Present.
-  * Aims to leverage LLM’s strong reasoning ability to automatically discover useful and economically meaningful stock factors.
-  * Joint with [Qian Wang][qian_wang].
 
 * **Active Learning to Train Clinical Report Generation Models**, [Imperial College London][ic], Mar 2023 - Sep 2023.
   * Studies the effect of different active learning strategies on actively tuning multimodal models into clinical domain specialised models.
   * Proposed and developed a novel active learning framework that can achieve the above goal.
   * Co-supervised by [Dr. Kai Sun][kai_sun] and [Dr. Jingqing Zhang][jingqing_zhang].
+  * [Proceedings of the 23rd Workshop on Biomedical Natural Language Processing][bical_bionlp_proceeding].
 
 ## Work Experience
 <ul style="list-style: none;">

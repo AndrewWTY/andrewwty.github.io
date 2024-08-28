@@ -14,3 +14,4 @@
 [nus]:https://nus.edu.sg/
 [nus_ds]:https://isep.nus.edu.sg/nus-phd-data-science/
 [pgf]:https://nusgs.nus.edu.sg/scholarships-list/
+[bical_bionlp_proceeding]:https://aclanthology.org/2024.bionlp-1.25/

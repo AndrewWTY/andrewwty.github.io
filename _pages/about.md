@@ -15,7 +15,7 @@ I am currently working as a pre-doc at the [University of Zurich][uzh] supervise
 
 ## Research
         
-I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models: 
+I am generally interested in natural trustworthy LLMs. Current interests are on several aspects around large language models: 
 - Alignment and Hallucination of LLMs
-- Evaluation of foundation models -- knowledge, reasoning, helpfulness, etc
-- Adversarial Attack on LLMs -- prompt injection techniques
+- Adversarial Attack on LLMs
+- Defences for Attacks on LLMs
