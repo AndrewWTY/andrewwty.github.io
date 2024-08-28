@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 {% include _links_lib.md %}
 
-Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>).
+<!-- Find the pdf version [here](<http://andrewWTY.github.io/files/CV_Andrew.pdf>). -->
 
 ## Current
 * **Research Assistant** in Retrieval Augmented Generation and Hallucination of LLMs, Supervised by [Prof. Markus Leippold][markus_leippold], [Univeristy of Zurich][uzh].
