@@ -18,5 +18,5 @@ I am generally interested in LLM Safety. Recent works are of several area includ
 - LLMs Reasoning Supervision. [Reprobe](reprobe), [UNIT](unit)
 - Adversarial Attack on LLMs. [GeneShift](geneshift)
 
-If you are interested in collaborating, feel free to connect me via tianyi_wu@u.nus.edu!
+If you are interested in collaborating, feel free to connect me via [tianyi_wu@u.nus.edu](mailto:tianyi_wu@u.nus.edu)!
 
